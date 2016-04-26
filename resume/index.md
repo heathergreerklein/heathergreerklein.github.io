@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-NC LIVE, NC State University Libraries
+__NC LIVE__, NC State University Libraries
 - `June 2015 - Present` __Member Services Coordinator__
 - `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__
 
