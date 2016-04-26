@@ -8,12 +8,12 @@ Online Services Librarian/Member Services Librarian, February 2011 - May 2015
 NC LIVE, NC State University Libraries  
 
 Primary Responsibilities: 
-*Apply NC LIVEís mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.
-*Develop and maintain a strong partner relationship with member library staff, resource vendors, and content and service partners.  Act as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.
-*Coordinate and assess vendor and partner-provided training.  Ensure training meets member library staff needs.
-*Plan and deliver communications and outreach to library staff.  Develop customized presentations that meet the needs of a variety of library types and staff levels.
-*Represent NC LIVE at state and national library conferences and meetings.
-*Act as a liaison for the NC LIVE Outreach, Promotions, & Partnerships Advisory Committee, helping to set priorities and presenting ideas and recommendations. 
+- Apply NC LIVE‚Äôs mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.
+- Develop and maintain a strong partner relationship with member library staff, resource vendors, and content and service partners.  Act as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.
+- Coordinate and assess vendor and partner-provided training.  Ensure training meets member library staff needs.
+- Plan and deliver communications and outreach to library staff.  Develop customized presentations that meet the needs of a variety of library types and staff levels.
+- Represent NC LIVE at state and national library conferences and meetings.
+- Act as a liaison for the NC LIVE Outreach, Promotions, & Partnerships Advisory Committee, helping to set priorities and presenting ideas and recommendations. 
 
 
 ## Education
@@ -40,82 +40,82 @@ Leadership Institute, North Carolina Library Association
 
 `March 2016`
 NC Community College Library Association Conference, Dobson, NC
-ìBut Wait, Thereís More!: Tips & Tricks to Optimize Your Digital Resourcesî (Co-presenter, concurrent session)
-ìForming Partnerships to Ensure Continued Relevanceî (Co-moderator, roundtable discussion)
+‚ÄúBut Wait, There‚Äôs More!: Tips & Tricks to Optimize Your Digital Resources‚Äù (Co-presenter, concurrent session)
+‚ÄúForming Partnerships to Ensure Continued Relevance‚Äù (Co-moderator, roundtable discussion)
 
 `October 2015`
 North Carolina Library Association Conference, Greensboro, NC
-ìTroubleshooting Digital Resources with Confidenceî (Concurrent session)
-ìFrom Vineyard to Winery: Using NC LIVE Resources to Support Small Business Developmentî (Co-presenter, concurrent session)
+‚ÄúTroubleshooting Digital Resources with Confidence‚Äù (Concurrent session)
+‚ÄúFrom Vineyard to Winery: Using NC LIVE Resources to Support Small Business Development‚Äù (Co-presenter, concurrent session)
 
 `July 2015`
 NC Community College Directors Leadership Institute, Raleigh, NC
-ìTechnology Competencies for Library Staffî (Invited speaker)
+‚ÄúTechnology Competencies for Library Staff‚Äù (Invited speaker)
 
 `March 2015`
 BiblioLabs Customers Meeting 
-ìThe NC LIVE Home Grown Collectionî (Invited, overview session)
+‚ÄúThe NC LIVE Home Grown Collection‚Äù (Invited, overview session)
 
 `March 2015`
 NC Community College Library Association Conference, Raleigh, NC
-ìTroubleshooting Digital Resources with Confidenceî (Concurrent session)
-ìNC LIVE Updateî (Concurrent session)
+‚ÄúTroubleshooting Digital Resources with Confidence‚Äù (Concurrent session)
+‚ÄúNC LIVE Update‚Äù (Concurrent session)
 
 `February 2015`
 Electronic Resources & Libraries Conference, Austin, TX
-ìEverything is Different: Easing the Pain of a Resource Transition.î (Lightning round)
+‚ÄúEverything is Different: Easing the Pain of a Resource Transition.‚Äù (Lightning round)
 
 `July 2014'
 Raleigh Cooperating Colleges Library Workshop, Raleigh, NC, July 2014
-ìTechnology Competencies: Building Confidence with Digital Resourcesî (Invited, workshop session)
+‚ÄúTechnology Competencies: Building Confidence with Digital Resources‚Äù (Invited, workshop session)
 
 `June 2014`
 ALA Annual Conference, Las Vegas, NV
-ìSay-it-in-Six Lightning Rounds: Case Studies on Using Data to Improve Library Servicesî (Lightning round)
+‚ÄúSay-it-in-Six Lightning Rounds: Case Studies on Using Data to Improve Library Services‚Äù (Lightning round)
 
 `April 2014`
 NC Community College Learning Resources Association Conference, Flat Rock, NC
-ìThe Results are In: Increasing the Use of Digital Resources is Easier than You Thinkî (Co-presenter, concurrent session)
+‚ÄúThe Results are In: Increasing the Use of Digital Resources is Easier than You Think‚Äù (Co-presenter, concurrent session)
 
 `October 2013`
 North Carolina Library Association Conference, Winston-Salem, NC
-ìNC LIVE Core Competencies for Staff Developmentî (Pre-conference session)
-ìResponse Requested: Better Surveys for Better Data.î (Concurrent session)
-ìNC LIVE Vendor Showcaseî (Co-presenter, exhibitor showcase)
+‚ÄúNC LIVE Core Competencies for Staff Development‚Äù (Pre-conference session)
+‚ÄúResponse Requested: Better Surveys for Better Data.‚Äù (Concurrent session)
+‚ÄúNC LIVE Vendor Showcase‚Äù (Co-presenter, exhibitor showcase)
 
 `September 2013`
 NC3ADL Conference, Raleigh, NC
-ìLibraries as Partners for High-Quality Assignmentsî (Co-presenter, concurrent session)
+‚ÄúLibraries as Partners for High-Quality Assignments‚Äù (Co-presenter, concurrent session)
 
 `May 2013`
 Conference for Entrepreneurial Librarians, Greensboro, NC
-ìThe Open Library NC Projectî (Lightning round)
+‚ÄúThe Open Library NC Project‚Äù (Lightning round)
 
 `March 2013`
 NC Community College Learning Resources Association, Wilmington, NC
-ìNC LIVE Resources to Meet Career and Small Business Information Needsî (Co-Presenter)
+‚ÄúNC LIVE Resources to Meet Career and Small Business Information Needs‚Äù (Co-Presenter)
 
 `October 2012`
 North Carolina Community College System Conference, Raleigh, NC
-ìHigh Quality Online Resources for Career and Small Business Supportî (Co-Presenter)
-ìLibraries: Supporting Student Success 24/7î (Co-Presenter)
+‚ÄúHigh Quality Online Resources for Career and Small Business Support‚Äù (Co-Presenter)
+‚ÄúLibraries: Supporting Student Success 24/7‚Äù (Co-Presenter)
 
 `March 2012`
 NC Community College Learning Resources Association, Asheville, NC, 
-ìOpen Library NC: A Partnership between the Internet Archive and NC LIVEî (Concurrent session)
+‚ÄúOpen Library NC: A Partnership between the Internet Archive and NC LIVE‚Äù (Concurrent session)
 
 `November 2011`
 NC3ADL Conference, Raleigh, NC 
-ìArticles and Beyond for Distance Learnersî (Concurrent session)
+‚ÄúArticles and Beyond for Distance Learners‚Äù (Concurrent session)
 
 `October 2011`
 North Carolina Library Association Conference, Hickory, NC
-ìGuiding Your Patrons through the Online Resource Jungleî (Moderator, panel presentation)
+‚ÄúGuiding Your Patrons through the Online Resource Jungle‚Äù (Moderator, panel presentation)
 
 
 ## Previous Professional Experience
 
-`July ñ November 2010`
+`July ‚Äì November 2010`
 __Contract Librarian__, N.C. Council on Developmental Disabilities
 - Planned and executed the transformation of a storage area into a 2,000+ volume non-lending library.  Created a plan to ensure continued maintenance with existing staff.
 
@@ -123,7 +123,7 @@ __Contract Librarian__, N.C. Council on Developmental Disabilities
 __Search Quality Evaluator__, Leapforce, Inc.
 - Applied a librarian's sophisticated understanding of information-seeking behaviors to evaluate the functionality of client search algorithms.
 
-`February 2009 ñ February 2010`
+`February 2009 ‚Äì February 2010`
 __Librarian__, Beaufort County Community College                  
 - Provided high-quality, user-centered reference assistance to students, faculty, staff, and public patrons. 
 - Supported the director in supervisory oversight of the operations of the library. 
@@ -137,7 +137,8 @@ __Technical Services Assistant__, Harvard College, Cabot Science Library
 `2004 - 2006`
 __Library Assistant III__, Harvard Medical School, Countway Library 
 Library Assistant III, 2004 - 2006
-Harvard Medical School, Countway Library, Boston, MA                                                                              
+Harvard Medical School, Countway Library, Boston, MA     
+
 `2001 - 2004`
 __Legislative Aide__, Office of Councilor Stephen J. Murphy, Boston, MA 
 
@@ -148,7 +149,6 @@ Member, North Carolina Library Association
 - New Members Roundtable Executive Committee Member, 2013-2015
 Member (Ex-officio), North Carolina State Library Continuing Education Advisory Committee
 Member, American Library Association
-
 
 ## Volunteer Service
 
