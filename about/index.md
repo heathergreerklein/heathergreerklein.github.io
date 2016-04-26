@@ -2,15 +2,18 @@
 layout: page
 title: About Me
 tags: [about, about me, me, ]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2016-04-25T20:53:07.573882-04:00
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm the Member Services Coordinator for <a href="http://nclive.org">NC LIVE</a>, a digital library consortium based at NC State University. In this role I manage the services we provide to our member library staff, including our Help Desk, training, communications, events, and outreach programs. I am active with the North Carolina Library Association and am a frequent presenter at library workshops and conferences across North Carolina.
 
-## Current Interests and Projects:
+I'm also an active community volunteer. I work as a volunteer Guardian ad Litem advocating for abused and neglected children in the Durham County Court System, and I'm also a founding board member and volunteer coordinator for <a href="http://sundayassemblychapelhill.org">Sunday Assembly Chapel Hill</a>. In my off time I'm an avid gardener, traveler, drummer, and learner.
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* DLorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+## Current Interests:
+
+* Community Engagement
+* Membership Cooperatives
+* Digital Literacy
+* Training & Development
+* Host Leadership
