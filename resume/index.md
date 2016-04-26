@@ -145,7 +145,9 @@ __Legislative Aide__, Office of Councilor Stephen J. Murphy, Boston, MA
 Member, North Carolina Library Association
 - Co-Chair, 2015 NCLA Conference Assessment Sub-Committee
 - New Members Roundtable Executive Committee Member, 2013-2015
+
 Member (Ex-officio), North Carolina State Library Continuing Education Advisory Committee
+
 Member, American Library Association
 
 ## Volunteer Service
