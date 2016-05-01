@@ -116,29 +116,35 @@ North Carolina Library Association Conference, Hickory, NC
 ## Previous Professional Experience
 
 `July – November 2010`
-__Contract Librarian__, N.C. Council on Developmental Disabilities  
+__Contract Librarian__  
+N.C. Council on Developmental Disabilities  
   - Planned and executed the transformation of a storage area into a 2,000+ volume non-lending library.  Created a plan to ensure continued maintenance with existing staff.  
 
 `November 2009 - December 2010`
-__Search Quality Evaluator__, Leapforce, Inc.  
+__Search Quality Evaluator__  
+Leapforce, Inc.  
   - Applied a librarian's sophisticated understanding of information-seeking behaviors to evaluate the functionality of client search algorithms.  
 
 `February 2009 – February 2010`
-__Librarian__, Beaufort County Community College                 
+__Librarian__  
+Beaufort County Community College                 
   - Provided high-quality, user-centered reference assistance to students, faculty, staff, and public patrons.  
   - Supported the director in supervisory oversight of the operations of the library.  
   - Designed and delivered information literacy instruction sessions, library user guides, web pages, and tutorials.  
            
 `2006 - 2008`
-__Technical Services Assistant__, Harvard College, Cabot Science Library                         
+__Technical Services Assistant__  
+Harvard College, Cabot Science Library                         
   - Responsible for all serials and monograph bindery activities. Resolved binding issues, evaluated workflows and initiated changes resulting in a simplified student worker training program.   
   - Trained and supervised two student employees, monitored departmental production needs, and scheduled students accordingly.   
  
 `2004 - 2006`
-__Library Assistant III__, Harvard Medical School, Countway Library 
+__Library Assistant III__  
+Harvard Medical School, Countway Library 
 
 `2001 - 2004`
-__Legislative Aide__, Office of Councilor Stephen J. Murphy, Boston, MA 
+__Legislative Aide__  
+Office of Councilor Stephen J. Murphy, Boston, MA 
 
 ## Professional Affiliations and Service
 
