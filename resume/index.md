@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-__NC LIVE__, NC State University Libraries
-- `June 2015 - Present` __Member Services Coordinator__
-- `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__
+__NC LIVE__, NC State University Libraries  
+- `June 2015 - Present` __Member Services Coordinator__  
+- `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__  
 
-Primary Responsibilities: 
-- Apply NC LIVE’s mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.
-- Develop and maintain a strong partner relationship with member library staff, resource vendors, and content and service partners.  Act as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.
-- Coordinate and assess vendor and partner-provided training.  Ensure training meets member library staff needs.
-- Plan and deliver communications and outreach to library staff.  Develop customized presentations that meet the needs of a variety of library types and staff levels.
-- Represent NC LIVE at state and national library conferences and meetings.
-- Act as a liaison for the NC LIVE Outreach, Promotions, & Partnerships Advisory Committee, helping to set priorities and presenting ideas and recommendations. 
+Primary Responsibilities:   
+- Apply NC LIVE’s mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.  
+- Develop and maintain a strong partner relationship with member library staff, resource vendors, and content and service partners.  Act as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.  
+- Coordinate and assess vendor and partner-provided training.  Ensure training meets member library staff needs.  
+- Plan and deliver communications and outreach to library staff.  Develop customized presentations that meet the needs of a variety of library types and staff levels.  
+- Represent NC LIVE at state and national library conferences and meetings.  
+- Act as a liaison for the NC LIVE Outreach, Promotions, & Partnerships Advisory Committee, helping to set priorities and presenting ideas and recommendations.   
 
 
 ## Education
