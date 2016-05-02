@@ -1,19 +1,35 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
+title: Marketing & Promotion Examples
+excerpt: "Examples of quick visuals for promotion"
+modified: 5/02/2016, 17:30:00
+tags: [images]
+comments: false
 ---
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+I frequently create graphics and other materials for NC LIVE or as part of my volunteer work. I like to use Canva because it allows anyone to create professional-looking images quickly using free or inexpensive royalty-free images. When I need to create fully original designs I'm proficient in Illustrator and have some experience with Photoshop.
 
-## What is a static website generator?
-A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
+<figure class="image">
+    <a href="/images/info-draft.png"><img src="infographic in progress"></a>
+    <figcaption>An in-progress draft of an infographic created using Venngage.</figcaption>
+</figure>
 
-## Why should I use a static website?
-A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
+<figure class="half">
+    <a href="/images/meeting_1.png"><img src="/images/meeting_1.png"></a>
+    <a href="/images/meeting_2.png"><img src="/images/meeting_2.png"></a>
+    <figcaption>NC LIVE Annual meeting priliminary agenda.</figcaption>
+</figure>
 
-## How is this template different?
-This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
+<figure class="half">
+    <a href="/images/nclive_ncla_2015.jpg"><img src="Conference booth sign"></a>
+    <a href="/images/photo_alert.jpg"><img src="photo sign"></a>
+    <figcaption>Two booth sign examples using Canva graphic elements.</figcaption>
+</figure>
+
+<figure class="half">
+<a href="march.jpg"><img src="Facebook Banner"></a>
+    <a href="motto.jpg"><img src="Facebook Banner 2"></a>
+	<figcaption>Sunday Assembly social media promotions.</figcaption>
+</figure>
+
+
