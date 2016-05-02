@@ -18,18 +18,18 @@ I frequently create visual materials for NC LIVE or as part of my volunteer work
     <a href="/images/meeting_1.png"><img src="/images/meeting_1.png"></a>
     <a href="/images/meeting_2.png"><img src="/images/meeting_2.png"></a>
     <figcaption>NC LIVE Annual meeting priliminary agenda.</figcaption>
-</figure>
+</figure>  
 
 <figure class="half">
     <a href="/images/nclive_ncla_2015.jpg"><img src="/images/nclive_ncla_2015.jpg"></a>
     <a href="/images/photo_alert.jpg"><img src="/images/photo_alert.jpg"></a>
     <figcaption>Two booth sign examples using Canva graphic elements.</figcaption>
-</figure>
+</figure>  
 
 <figure class="half">
 <a href="/images/march.jpg"><img src="/images/march.jpg"></a>
     <a href="/images/motto.jpg"><img src="/images/motto.jpg"></a>
 	<figcaption>Sunday Assembly social media promotions.</figcaption>
-</figure>
+</figure>  
 
 
