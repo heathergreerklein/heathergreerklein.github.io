@@ -7,5 +7,5 @@ tags: [presentations]
 comments: false
 ---
 
-I've added some recent presentations to [Slideshare](http://www.slideshare.net/HeatherGreerKlein)
+I present often on behalf of NC LIVE. I've added some recent presentations to [Slideshare](http://www.slideshare.net/HeatherGreerKlein).
 
