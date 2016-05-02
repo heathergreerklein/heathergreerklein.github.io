@@ -15,7 +15,7 @@ I frequently create visual materials for NC LIVE or as part of my volunteer work
 
 </figure>
     
- ##Conference Materials   
+##Conference Materials   
 <figure class="half">
     <a href="/images/meeting_1.png"><img src="/images/meeting_1.png"></a>
     <a href="/images/meeting_2.png"><img src="/images/meeting_2.png"></a>
@@ -31,7 +31,7 @@ I frequently create visual materials for NC LIVE or as part of my volunteer work
 
 </figure>  
 
- ##Social Media    
+##Social Media    
 <figure class="half">
 <a href="/images/march.jpg"><img src="/images/march.jpg"></a>
     <a href="/images/motto.jpg"><img src="/images/motto.jpg"></a>
