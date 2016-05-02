@@ -8,6 +8,7 @@ comments: false
 ---
 
 I frequently create visual materials for NC LIVE or as part of my volunteer work. I like to use <a href="http://www.canva.com">Canva</a> for these images so I can quickly create professional-looking graphics incorporating royalty-free images. When I need to create fully original designs I'm proficient in Illustrator and have some experience with Photoshop.
+
 ## Infographic
 <figure class="image">
     <a href="/images/info-draft.png"><img src="/images/info-draft.png"></a>
