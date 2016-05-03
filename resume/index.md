@@ -65,7 +65,7 @@ NC Community College Library Association Conference, Raleigh, NC
 Electronic Resources & Libraries Conference, Austin, TX  
   - “Everything is Different: Easing the Pain of a Resource Transition.” (Lightning round)  
 
-`July 2014'
+`July 2014`
 Raleigh Cooperating Colleges Library Workshop, Raleigh, NC, July 2014  
   - “Technology Competencies: Building Confidence with Digital Resources” (Invited, workshop session)  
 
