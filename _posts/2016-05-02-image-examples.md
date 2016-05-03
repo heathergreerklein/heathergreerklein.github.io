@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marketing & Promotion Examples
-excerpt: "A few things I've created recently."
+excerpt: "A sample of images I've created"
 modified: 5/02/2016, 17:30:00
 tags: [images]
 comments: false
