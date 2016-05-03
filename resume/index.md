@@ -40,12 +40,12 @@ Leadership Institute, North Carolina Library Association
 
 `March 2016`
 NC Community College Library Association Conference, Dobson, NC  
-  - “But Wait, There’s More!: Tips & Tricks to Optimize Your Digital Resources” (Co-presenter, concurrent session)  
+  - “[But Wait, There’s More!: Tips & Tricks to Optimize Your Digital Resources](http://www.slideshare.net/HeatherGreerKlein/tips-and-tricks-to-optimize-your-digital-resources)” (Co-presenter, concurrent session)  
   - “Forming Partnerships to Ensure Continued Relevance” (Co-moderator, roundtable discussion)  
 
 `October 2015`
 North Carolina Library Association Conference, Greensboro, NC  
-  - “Troubleshooting Digital Resources with Confidence” (Concurrent session)  
+  - “[Troubleshooting Digital Resources with Confidence](http://www.slideshare.net/HeatherGreerKlein/troubleshooting-digital-resources-with-confidence)” (Concurrent session)  
   - “From Vineyard to Winery: Using NC LIVE Resources to Support Small Business Development” (Co-presenter, concurrent session)  
 
 `July 2015`
