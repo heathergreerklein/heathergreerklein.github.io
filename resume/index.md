@@ -75,7 +75,7 @@ ALA Annual Conference, Las Vegas, NV
 
 `April 2014`
 NC Community College Learning Resources Association Conference, Flat Rock, NC  
-  - “The Results are In: Increasing the Use of Digital Resources is Easier than You Think” (Co-presenter, concurrent session)  
+  - “[The Results are In: Increasing the Use of Digital Resources is Easier than You Think](http://www.slideshare.net/secret/dDLeFMvxZJxAx8)” (Co-presenter, concurrent session)  
 
 `October 2013`
 North Carolina Library Association Conference, Winston-Salem, NC  
