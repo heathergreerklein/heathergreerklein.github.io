@@ -20,7 +20,7 @@ I frequently create visual materials for NC LIVE or as part of my volunteer work
 <figure class="half">
     <a href="/images/meeting_1.png"><img src="/images/meeting_1.png"></a>
     <a href="/images/meeting_2.png"><img src="/images/meeting_2.png"></a>
-    <figcaption>NC LIVE Annual meeting priliminary agenda.</figcaption>
+    <figcaption>NC LIVE Annual meeting preliminary agenda.</figcaption>
 
 </figure>  
  
@@ -28,11 +28,11 @@ I frequently create visual materials for NC LIVE or as part of my volunteer work
 <figure class="half">
     <a href="/images/nclive_ncla_2015.jpg"><img src="/images/nclive_ncla_2015.jpg"></a>
     <a href="/images/photo_alert.jpg"><img src="/images/photo_alert.jpg"></a>
-    <figcaption>Two booth sign examples using Canva graphic elements.</figcaption>
+    <figcaption>Two exhibitor booth sign examples (one for NC LIVE and one for Sunday Assembly)that use Canva graphic elements.</figcaption>
 
 </figure>  
 
-## Social Media    
+## Social Media Banners    
 <figure class="half">
 <a href="/images/march.jpg"><img src="/images/march.jpg"></a>
     <a href="/images/motto.jpg"><img src="/images/motto.jpg"></a>
