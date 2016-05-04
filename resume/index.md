@@ -30,6 +30,15 @@ Master of Science in Library and Information Science
 __Northeastern University__  
 Bachelor of Science in Sociology 
 
+##Technical Skills
+
+-	__Web Design/Programming:__ HTML, CSS, Markdown, Python (beginner), CMS content creation and editing (WordPress, Drupal) 
+-	__Multimedia Software:__ Photoshop, Illustrator, Canva 
+-	__Productivity Software:__ MS Office Suite, Google Apps, SurveyMonkey, MailChimp
+-	__CRM:__ SugarCRM (management, database design, custom modules, and reporting)
+-	__Social Media:__ Facebook, Twitter, YouTube, HootSuite
+-	__Interest, willingness, and ability to learn new skills and applications__
+
 ## Awards
 
 `2013`
