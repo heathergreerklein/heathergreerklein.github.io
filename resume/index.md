@@ -30,7 +30,7 @@ Master of Science in Library and Information Science
 __Northeastern University__  
 Bachelor of Science in Sociology 
 
-##Technical Skills
+## Technical Skills
 
 -	__Web Design/Programming:__ HTML, CSS, Markdown, Python (beginner), CMS content creation and editing (WordPress, Drupal) 
 -	__Multimedia Software:__ Photoshop, Illustrator, Canva 
