@@ -63,7 +63,7 @@ NC Community College Library Association Conference, Raleigh, NC
 
 `February 2015`
 Electronic Resources & Libraries Conference, Austin, TX  
-  - “Everything is Different: Easing the Pain of a Resource Transition.” (Lightning round)  
+  - “[Everything is Different: Easing the Pain of a Resource Transition](http://www.slideshare.net/HeatherGreerKlein/everything-is-different-easing-the-pain-of-a-resource-transition).” (Lightning round)  
 
 `July 2014`
 Raleigh Cooperating Colleges Library Workshop, Raleigh, NC, July 2014  
