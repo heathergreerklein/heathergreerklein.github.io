@@ -2,19 +2,9 @@
 layout: page
 ---
 ## Currently
-
-__NC LIVE__, NC State University Libraries  
- - `June 2015 - Present` __Member Services Coordinator__  
- - `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__  
-
-Primary Responsibilities:   
- - Apply NC LIVE’s mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.  
- - Develop and maintain a strong partner relationship with member library staff, resource vendors, and content and service partners.  Act as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.  
- - Coordinate and assess vendor and partner-provided training.  Ensure training meets member library staff needs.  
- - Plan and deliver communications and outreach to library staff.  Develop customized presentations that meet the needs of a variety of library types and staff levels.  
- - Represent NC LIVE at state and national library conferences and meetings.  
- - Act as a liaison for the NC LIVE Outreach, Promotions, & Partnerships Advisory Committee, helping to set priorities and presenting ideas and recommendations.   
-
+__DuraSpace__
+ - `October 2016 - Present` __Services Coordinator__  
+- I manage the suite of DuraSpace web service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- which are designed to make digital repositories and digital preservation best practices accessible to organizations of any size.  I administer the lead to sales process, support new customers in onboarding and training, and provide exceptional customer service to ensure customer satisfaction and continued services growth. 
 
 ## Education
 
@@ -124,6 +114,18 @@ North Carolina Library Association Conference, Hickory, NC
 
 ## Previous Professional Experience
 
+ - `June 2015 - October 2016` __Member Services Coordinator__  
+ - `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__  
+__NC LIVE__, NC State University Libraries  
+
+Primary Responsibilities:   
+ - Applied NC LIVE’s mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.  
+ - Developed and maintained a strong partner relationship with member library staff, resource vendors, and content and service partners.  Acted as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.  
+ - Coordinated and assessed vendor and partner-provided training.  Ensured training meets member library staff needs.  
+ - Planned and delivered communications and outreach to library staff.  Developed customized presentations that meet the needs of a variety of library types and staff levels.  
+ - Represented NC LIVE at state and national library conferences and meetings.  
+ - Acted as a liaison for the NC LIVE Outreach, Promotions, & Partnerships Advisory Committee, helping to set priorities and presenting ideas and recommendations.   
+ 
 `July – November 2010`
 __Contract Librarian__  
 N.C. Council on Developmental Disabilities  
