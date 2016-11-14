@@ -3,7 +3,7 @@ layout: page
 ---
 ## Currently
 __DuraSpace__
- - `October 2016 - Present` __Services Coordinator__  
+ - `October 2016 - Present` __Services Coordinator (Independent Contractor)__  
 - I manage the suite of DuraSpace web service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- which are designed to make digital repositories and digital preservation best practices accessible to organizations of any size.  I administer the lead to sales process, support new customers in onboarding and training, and provide exceptional customer service to ensure customer satisfaction and continued services growth. 
 
 ## Education
