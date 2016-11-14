@@ -7,7 +7,7 @@ tags: [images]
 comments: false
 ---
 
-I frequently create visual materials for NC LIVE or as part of my volunteer work. I like to use <a href="http://www.canva.com">Canva</a> for these images so I can quickly create professional-looking graphics incorporating royalty-free images. When I need to create fully original designs I'm proficient in Illustrator and have some experience with Photoshop.
+I frequently create visual materials as part of my volunteer work, and have created them as part of past employment positions. I like to use <a href="http://www.canva.com">Canva</a> for these images so I can quickly create professional-looking graphics incorporating royalty-free images. When I need to create fully original designs I'm proficient in Illustrator and Photoshop.
 
 ## Infographic
 <figure class="image">
@@ -28,7 +28,7 @@ I frequently create visual materials for NC LIVE or as part of my volunteer work
 <figure class="half">
     <a href="/images/nclive_ncla_2015.jpg"><img src="/images/nclive_ncla_2015.jpg"></a>
     <a href="/images/photo_alert.jpg"><img src="/images/photo_alert.jpg"></a>
-    <figcaption>Two exhibitor booth sign examples (one for NC LIVE and one for Sunday Assembly)that use Canva graphic elements.</figcaption>
+    <figcaption>Two exhibitor booth sign examples (one for NC LIVE and one for Sunday Assembly) that use Canva graphic elements.</figcaption>
 
 </figure>  
 
