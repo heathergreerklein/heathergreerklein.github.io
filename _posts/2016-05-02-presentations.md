@@ -7,5 +7,7 @@ tags: [presentations]
 comments: false
 ---
 
-I presented often on behalf of NC LIVE when I was the Member Services Coordinator for the consortium. Many of these presentations have been added to [Slideshare](http://www.slideshare.net/HeatherGreerKlein).
+I frequently present both in-person and online as part of workshops, training sessions, conference sessions, and panels. Many of these presentations have been added to [Slideshare](http://www.slideshare.net/HeatherGreerKlein). 
+
+Recorded webinars include ["DuraCloud: What's New and What's Next for the Software and the Service"](https://youtu.be/KSICFYf-qYI) and a presentation for the [National Digital Stewardship Alliance Infrastrcture Interest Group Information Series](https://youtu.be/JiviyDF7iRo)(beginning at 3:30).
 
