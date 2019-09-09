@@ -3,12 +3,12 @@ layout: page
 ---
 ## Currently
 __LYRASIS (Formerly DuraSpace; organizations merged in July 2019)__
-`June 2019 - Present` __Outreach & Engagement Coordinator, Digital Technology Services Divison__  
-`October 2016 - June 2019` __Services Coordinator__  
-- Manage the suite of DuraSpace open source hosted service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- digital repository and preservation software designed to be accessible to organizations of any size. Administer the lead to sales process, support new customers in onboarding and training, and provide ongoing service support. 
-- Create and produce training materials, including support documentation, information sessions, and webinars. 
-- Act as a project manager for projects related to hosted services including exploratory work, pilot programs, and partner collaborations.
-- Assigned special role as DSpace 7 Product Manager to assist with the marketing and management of the DSpace version 7 preview release.
+-`June 2019 - Present` __Outreach & Engagement Coordinator, Digital Technology Services Divison__  
+-`October 2016 - June 2019` __Services Coordinator__  
+  - Manage the suite of DuraSpace open source hosted service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- digital        repository and preservation software designed to be accessible to organizations of any size. Administer the lead to sales process, support new customers in onboarding and training, and provide ongoing service support. 
+  - Create and produce training materials, including support documentation, information sessions, and webinars. 
+  - Act as a project manager for projects related to hosted services including exploratory work, pilot programs, and partner collaborations.
+  - Assigned special role as DSpace 7 Product Manager to assist with the marketing and management of the DSpace version 7 preview release.
 
 ## Education
 
