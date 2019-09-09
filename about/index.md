@@ -8,7 +8,7 @@ comments: true
 
 Hello! 
 
-I'm Heather Greer Klein and I'm passionate about making digital resources and open technologies accessible and understandable to library and archives staff at all levels. I promote an empowerment-based training and support model and am an advocate for excellent user experiences. I'm a collaborative project manager and I love interating and working for effecient and effective training and documentation that helps other library staff better serve the missions of their organizations.
+I'm Heather Greer Klein and I'm passionate about making digital resources and open technologies accessible and understandable to library and archives staff at all levels. I promote an empowerment-based training and support model and am an advocate for excellent user experiences. I'm a collaborative project manager and I love iterating and working for efficient and effective training and documentation that helps other library staff better serve the missions of their organizations.
 
 I'm the Outreach & Engagement Coordinator for services at <a href="https://lyrasis.org">LYRASIS</a>, and was formerly the Services Coordinator at <a href="https://duraspace.org">DuraSpace</a> before that organization merged with LYRASIS in July 2019. 
 
