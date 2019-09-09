@@ -24,19 +24,53 @@ Bachelor of Science in Sociology
 
 -	__Web Design/Programming:__ HTML, CSS, Markdown, Python (beginner), CMS content creation and editing (WordPress, Drupal) 
 -	__Multimedia Software:__ Photoshop, Illustrator, Canva 
--	__Productivity Software:__ MS Office Suite, Google Apps, SurveyMonkey, MailChimp
--	__CRM:__ SugarCRM (management, database design, custom modules, and reporting)
+-	__Productivity Software:__ MS Office Suite, Google Apps, SurveyMonkey, MailChimp, Trello, Basecamp
+-	__CRM:__ SugarCRM, Zoho CRM
 -	__Social Media:__ Facebook, Twitter, YouTube, HootSuite
 -	__Interest, willingness, and ability to learn new skills and applications__
 
-## Awards
-
-`2013`
-Leadership Institute, North Carolina Library Association 
-
-
 ## Presentations
-
+`October 2019`
+Digital Library Federation Conference, Tampa, FL  
+  - “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)  
+  
+`October 2019`
+Digital Preservation 2019 Conference, Tampa, FL  
+  - “Designing a Migration Path: Outcomes and Recommendations” (moderator) 
+  
+`April 2019`
+DuraSpace Summit, St. Louis, MO
+  - “Supporting open infrastructure in an evolving landscape” (moderator) 
+  
+`February 2019`
+PASIG Meeting, Mexico City, Mexico
+  - “Distributed Digital Preservation Discussion” (panelist)  
+  
+`December 2018`
+Webinar, NDSA Infrastructure Interest Group Meeting
+  - “[Uncovering the True Cost of Cloud Storage](https://youtu.be/JiviyDF7iRo)” 
+  
+`October 2018`
+Digital Library Federation Conference, Las Vegas, NV  
+  - “[Collaboration beyond code: Sprints for non-technical work](https://osf.io/s7knx/)” (concurrent session)  
+  - “[Digital Library Technology, Social Impact, and the Developing World](https://osf.io/6d7ny/)” (concurrent session)  
+  
+`June 2018`
+VIVO Conference 2018, Durham, NC
+  - “Research Graph VIVO Cloud Pilot” (poster)   
+  
+`May 2018`
+Webinar 
+  - “[DuraCloud in 2018: What's New? What's Next for the Software and the Service?](https://www.youtube.com/watch?v=KSICFYf-qYI)” 
+  
+`November 2017`
+Samvera Connect, Chicago, IL  
+  - “[HykuDirect Pilot Project](https://www.slideshare.net/HeatherGreerKlein/hyku-direct-pilot-poster-samvera-connect-2017)” (Poster)
+  
+`April 2017`
+DPLAFest, Chicago, IL
+  - “Hydra-in-a-Box Project Update” (Co-presenter)  
+  
 `March 2016`
 NC Community College Library Association Conference, Dobson, NC  
   - “[But Wait, There’s More!: Tips & Tricks to Optimize Your Digital Resources](http://www.slideshare.net/HeatherGreerKlein/tips-and-tricks-to-optimize-your-digital-resources)” (Co-presenter, concurrent session)  
@@ -160,6 +194,7 @@ Office of Councilor Stephen J. Murphy, Boston, MA
 ## Professional Affiliations and Service
 
 Member, North Carolina Library Association  
+  - Director, Women in Libraries Roundtable, 2017-Present
   - Co-Chair, 2015 NCLA Conference Assessment Sub-Committee  
   - New Members Roundtable Executive Committee Member, 2013-2015  
 
@@ -181,6 +216,6 @@ Judicial District 14, Durham County
 
 <!-- ### Footer
 
-Last updated: April 2016 -->
+Last updated: September 2019 -->
 
 
