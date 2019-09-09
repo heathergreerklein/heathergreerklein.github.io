@@ -2,9 +2,13 @@
 layout: page
 ---
 ## Currently
-__DuraSpace__
- - `October 2016 - Present` __Services Coordinator (Independent Contractor)__  
-- I manage the suite of DuraSpace web service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- which are designed to make digital repositories and digital preservation best practices accessible to organizations of any size.  I administer the lead to sales process, support new customers in onboarding and training, and provide exceptional customer service to ensure customer satisfaction and continued services growth. 
+__LYRASIS (Formerly DuraSpace; organizations merged in July 2019)__
+ - `June 2019 - Present` __Outreach & Engagement Coordinator, Digital Technology Services Divison__  
+ - `October 2016 - June 2019` __Services Coordinator__  
+- Manage the suite of DuraSpace web service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- which are designed to make digital repositories and digital preservation best practices accessible to organizations of any size. Administer the lead to sales process, support new customers in onboarding and training, and provide ongoing service support. 
+- Create and produce training materials, including support documentation, information sessions, and webinars. 
+- Act as a project manager for projects related to hosted services including exploratory work, pilot programs, and partner collaborations.
+- Assigned special role as DSpace 7 Product Manager to assist with the marketing and management of the DSpace version 7 preview release.
 
 ## Education
 
