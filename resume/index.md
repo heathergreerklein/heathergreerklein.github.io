@@ -155,9 +155,7 @@ North Carolina Library Association Conference, Hickory, NC
 
  - `June 2015 - October 2016` __Member Services Coordinator__  
  - `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__  
-__NC LIVE__, NC State University Libraries  
-
-Primary Responsibilities:   
+__NC LIVE__, NC State University Libraries     
  - Applied NC LIVE’s mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.  
  - Developed and maintained a strong partner relationship with member library staff, resource vendors, and content and service partners.  Acted as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.  
  - Coordinated and assessed vendor and partner-provided training.  Ensured training meets member library staff needs.  
