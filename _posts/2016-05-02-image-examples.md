@@ -7,7 +7,7 @@ tags: [images]
 comments: false
 ---
 
-I frequently create visual materials as part of my volunteer work, and have created them as part of past employment positions. I like to use <a href="http://www.canva.com">Canva</a> for these images so I can quickly create professional-looking graphics incorporating royalty-free images. When I need to create fully original designs I'm proficient in Illustrator and Photoshop.
+I frequently create visual materials as part of my volunteer work, and have created them as part of past employment positions. I like to use <a href="https://www.canva.com">Canva</a> for these images so I can quickly create professional-looking graphics incorporating royalty-free images. When I need to create fully original designs I'm proficient in Illustrator and Photoshop.
 
 ## Infographic
 <figure class="image">
