@@ -2,7 +2,7 @@
 layout: post
 title: Welcome!
 excerpt: "About this site"
-modified: 5/01/2016, 17:30:00
+modified: 10/06/2019
 tags: [about]
 comments: false
 ---
@@ -13,7 +13,7 @@ Welcome! I built this site as a professional web presence and a simple portfolio
 
 Special thanks to [Todd Stoffer][stoffer] and [Alison Blaine][blaine] from NC State University Libraries for creating the [Jekyll Academic][jekyllncsu] template and presenting it at the 2016 LAUNC-CH Conference.
 
-   [df1]: <http://daringfireball.net/projects/markdown/>
+   [df1]: <https://daringfireball.net/projects/markdown/>
    [jekyllncsu]: <https://github.com/NCSU-Libraries/jekyll-academic>
    [blaine]: <https://www.lib.ncsu.edu/staff/ablaine>
    [stoffer]: <https://www.lib.ncsu.edu/staff/tdstoffe>
