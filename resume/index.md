@@ -5,10 +5,11 @@ layout: page
 __LYRASIS (Formerly DuraSpace; organizations merged in July 2019)__
 -`June 2019 - Present` __Outreach & Engagement Coordinator, Digital Technology Services Divison__  
 -`October 2016 - June 2019` __Services Coordinator__  
-  - Manage the suite of DuraSpace open source hosted service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- digital        repository and preservation software designed to be accessible to organizations of any size. Administer the lead to sales process, support new customers in onboarding and training, and provide ongoing service support. 
-  - Create and produce training materials, including support documentation, information sessions, and webinars. 
+  - Manage the suite of DuraSpace open source hosted service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- digital        repository and preservation software designed to be accessible to organizations of any size. Consult with cultural heritage institutions about their needs, and recommend open source options within and outside the services portfolio. Support new customers in onboarding and training, and provide ongoing service support and tier 1 service troubleshooting. 
+  - Create and maintain detailed documentation and training materials, including support documentation, templates, demo sites, and webinars. Contribute to blog posts and newsletters on services topics.
+  - Build grow relationships with service and grant partners, pilot participants, and open source communities.
   - Act as a project manager for projects related to hosted services including exploratory work, pilot programs, and partner collaborations.
-  - Assigned special role as DSpace 7 Product Manager to assist with the marketing and management of the DSpace version 7 preview release.
+  - Assigned special role as DSpace 7 Product Manager to assist with the marketing and management of the DSpace version 7 preview release and upcoming beta release. Work closely with an international team on the DSpace 7 Marketing Group, DSpace Technical Lead, and primary release developers to create a marketing plan, ongoing communications with the wider community, and task estimations.
 
 ## Education
 
@@ -26,11 +27,11 @@ Bachelor of Science in Sociology
 
 ## Technical Skills
 
--	__Web Design/Programming:__ HTML, CSS, Markdown, Python (beginner), CMS content creation and editing (WordPress, Drupal) 
+-	__Design/Programming:__ HTML, CSS, Markdown, GitHub, Python (beginner), CMS content creation and editing (WordPress, Drupal)
+- __Project Management:__ Basecamp, Trello, Wideband Delphi Software Estimation Process
 -	__Multimedia Software:__ Photoshop, Illustrator, Canva 
--	__Productivity Software:__ MS Office Suite, Google Apps, SurveyMonkey, MailChimp, Trello, Basecamp
 -	__CRM:__ SugarCRM, Zoho CRM
--	__Social Media:__ Facebook, Twitter, YouTube, HootSuite
+-	__Community Channels:__ Slack, MailChimp, Constant Contact, Google Groups, Facebook, Twitter, YouTube, HootSuite
 -	__Interest, willingness, and ability to learn new skills and applications__
 
 ## Presentations
