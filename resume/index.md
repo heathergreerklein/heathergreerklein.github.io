@@ -155,7 +155,7 @@ North Carolina Library Association Conference, Hickory, NC
 
  - `June 2015 - October 2016` __Member Services Coordinator__  
  - `February 2011 - May 2015` __Online Services Librarian/Member Services Librarian__  
-__NC LIVE__, NC State University Libraries     
+NC LIVE, NC State University Libraries     
  - Applied NC LIVE’s mission and customer service philosophy to library staff service operations including oversight of the NC LIVE Help Desk, member communications, and service blog.  Identify, report, and address trends related to resource and service issues.  
  - Developed and maintained a strong partner relationship with member library staff, resource vendors, and content and service partners.  Acted as an advocate for member libraries to identify and resolve challenges related to NC LIVE content and services.  
  - Coordinated and assessed vendor and partner-provided training.  Ensured training meets member library staff needs.  
@@ -165,26 +165,19 @@ __NC LIVE__, NC State University Libraries
  
 `July – November 2010`
 __Contract Librarian__  
-N.C. Council on Developmental Disabilities  
-  - Planned and executed the transformation of a storage area into a 2,000+ volume non-lending library.  Created a plan to ensure continued maintenance with existing staff.  
+N.C. Council on Developmental Disabilities   
 
 `November 2009 - December 2010`
 __Search Quality Evaluator__  
 Leapforce, Inc.  
-  - Applied a librarian's sophisticated understanding of information-seeking behaviors to evaluate the functionality of client search algorithms.  
 
 `February 2009 – February 2010`
 __Librarian__  
-Beaufort County Community College                 
-  - Provided high-quality, user-centered reference assistance to students, faculty, staff, and public patrons.  
-  - Supported the director in supervisory oversight of the operations of the library.  
-  - Designed and delivered information literacy instruction sessions, library user guides, web pages, and tutorials.  
+Beaufort County Community College                  
            
 `2006 - 2008`
 __Technical Services Assistant__  
 Harvard College, Cabot Science Library                         
-  - Responsible for all serials and monograph bindery activities. Resolved binding issues, evaluated workflows and initiated changes resulting in a simplified student worker training program.   
-  - Trained and supervised two student employees, monitored departmental production needs, and scheduled students accordingly.   
  
 `2004 - 2006`
 __Library Assistant III__  
@@ -201,7 +194,7 @@ Member, North Carolina Library Association
   - Co-Chair, 2015 NCLA Conference Assessment Sub-Committee  
   - New Members Roundtable Executive Committee Member, 2013-2015  
 
-Member (Ex-officio), North Carolina State Library Continuing Education Advisory Committee
+2011-2016, Member (Ex-officio), North Carolina State Library Continuing Education Advisory Committee
 
 Member, American Library Association
 
@@ -215,10 +208,10 @@ Sunday Assembly Chapel Hill
 `2013- Present`
 __Volunteer Guardian ad Litem__  
 Judicial District 14, Durham County  
-  - Founding Board Member of a 200+ member chapter of an international educational and charitable non-profit community organization.  Work as a team to organize and execute monthly events for 60+ community members.  Arrange for speakers, organize volunteering opportunities, conduct fundraising, comply with requirements for 501(c)3 non-profit community organization.  Ensure that all activities are responsive to community and organizational philosophy.  Engage with community though social media campaigns and local media outreach.
+  - Appointed to investigate and advocate for the best interests of abused and neglected children petitioned into the court system by the Department of Social Services.  Responsible for investigating and documenting assigned cases; establishing respectful and culturally competent relationships with children and parents; collaborating with other stakeholders; writing concise and fact-based court reports; empowering the child’s voice; testifying in court when requested; and following strict protocols for confidentiality.
 
 <!-- ### Footer
 
-Last updated: September 2019 -->
+Last updated: October 2019 -->
 
 
