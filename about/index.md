@@ -8,7 +8,7 @@ comments: true
 
 Hello! 
 
-I'm Heather Greer Klein and I have a passion for ensuring open technologies are accessible and understandable to library and archives staff at all levels. I promote an empowerment-based training and support model and advocate transparent community communications and excellent user experiences. I pursue and promote inclusive, equitable, and transparent work that is always pursued in collaboration with community. The work I do helps cultural heritage organizations better serve the missions of their organizations.
+I'm Heather Greer Klein and I have a passion for ensuring open technologies are accessible and understandable to library and archives staff at all levels. I promote an empowerment-based training and support model and advocate for user-centered experiences. I pursue and promote inclusive, equitable, and transparent technology communities. 
 
 I'm the Outreach & Engagement Coordinator for services at <a href="https://lyrasis.org">LYRASIS</a>, and was formerly the Services Coordinator at <a href="https://duraspace.org">DuraSpace</a> before that organization merged with LYRASIS in July 2019. 
 
