@@ -4,7 +4,7 @@ layout: page
 ## Currently
 __LYRASIS (Formerly DuraSpace; organizations merged in July 2019)__
 `June 2019 - Present`
-__Outreach & Engagement Coordinator, Digital Technology Services Division__  
+__Outreach & Engagement Coordinator__  
 `October 2016 - June 2019` 
 __Services Coordinator__  
   - Manage the suite of DuraSpace open source hosted service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- digital        repository and preservation software designed to be accessible to organizations of any size. Consult with cultural heritage institutions to assess their needs, and recommend open source options within and outside the services portfolio. Support new customers in onboarding and training, and provide ongoing service support and tier 1 service troubleshooting. 
