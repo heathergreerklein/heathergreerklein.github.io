@@ -4,7 +4,7 @@ layout: page
 ## Currently
 __LYRASIS (Formerly DuraSpace; organizations merged in July 2019)__
 `February 2019 - Present`
-__DSpace 7 Product Manager__(.25 FTE temporary position)
+__DSpace 7 Product Manager__ (.25 FTE temporary position)
 `June 2019 - Present`
 __Outreach & Engagement Coordinator__  
 `October 2016 - June 2019` 
