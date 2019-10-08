@@ -3,16 +3,19 @@ layout: page
 ---
 ## Currently
 __LYRASIS (Formerly DuraSpace; organizations merged in July 2019)__
+`February 2019 - Present`
+__DSpace 7 Product Manager__(.25 FTE temporary position)
 `June 2019 - Present`
 __Outreach & Engagement Coordinator__  
 `October 2016 - June 2019` 
 __Services Coordinator__  
   - Manage the suite of DuraSpace open source hosted service offerings -- DuraCloud, DSpaceDirect, and ArchivesDirect -- digital        repository and preservation software designed to be accessible to organizations of any size. Consult with cultural heritage institutions to assess their needs, and recommend open source options within and outside the services portfolio. Support new customers in onboarding and training, and provide ongoing service support and tier 1 service troubleshooting. 
+  - Work closely with the DSpace Governance, DSpace 7 working groups, and Technical Lead to manage the Preview and Beta releases of DSpace 7. Developed and working to execute a release communications and events plan, and created a DSpace 7 communications homepage. Working with a team of international service providers to complete a Wideband Delphi software estimation process for work
+remaining for the DSpace 7 Beta release.
   - Create and maintain detailed documentation and training materials, including support documentation, templates, demo sites, and webinars. Contribute to blog posts and newsletters on services topics.
   - Build and grow relationships with service and grant partners, pilot participants, and open source communities.
   - Manage projects related to hosted services including exploratory work, pilot programs, and partner collaborations.
-  - Assigned special role as DSpace 7 Product Manager to assist with the marketing and planning of the DSpace version 7 preview release and upcoming beta release. Work closely with an international team on the DSpace 7 Marketing Group, the DSpace Technical Lead, and primary release developers to create a marketing plan, ongoing communications with the wider community, and task estimations.
-
+  
 ## Education
 
 `2015`
