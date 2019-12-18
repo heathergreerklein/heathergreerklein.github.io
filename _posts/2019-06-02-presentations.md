@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Presentations
+title: Presentations & Webinars
 excerpt: "Presentations on Slideshare"
 modified: 2019-10-06, 5:24:22
 tags: [presentations]
@@ -11,11 +11,10 @@ I frequently present and facilitate workshops, training sessions, conference ses
 
 Recorded webinars include ["DuraCloud: What's New and What's Next for the Software and the Service"](https://youtu.be/KSICFYf-qYI) and a presentation for the [National Digital Stewardship Alliance Infrastructure Interest Group Information Series](https://youtu.be/JiviyDF7iRo)   (beginning at 3:30).
 
-## Full Presentation History
+## Past Presentations
 `October 2019`
 Digital Library Federation Conference, Tampa, FL  
-  - “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)  
-  
+  - “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)    
 `October 2019`
 Digital Preservation 2019 Conference, Tampa, FL  
   - “Designing a Migration Path: Outcomes and Recommendations” (moderator) 
