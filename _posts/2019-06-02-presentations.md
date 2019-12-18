@@ -14,7 +14,8 @@ Recorded webinars include ["DuraCloud: What's New and What's Next for the Softwa
 ## Past Presentations
 `October 2019`
 Digital Library Federation Conference, Tampa, FL  
-  - “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)  
+  “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)  
+  
   
 `October 2019`
 Digital Preservation 2019 Conference, Tampa, FL  
