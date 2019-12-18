@@ -42,7 +42,6 @@ Bachelor of Science in Sociology
 `October 2019`
 Digital Library Federation Conference, Tampa, FL  
   - “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)  
-  
 `October 2019`
 Digital Preservation 2019 Conference, Tampa, FL  
   - “Designing a Migration Path: Outcomes and Recommendations” (moderator) 
