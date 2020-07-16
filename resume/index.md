@@ -41,6 +41,14 @@ Bachelor of Science in Sociology
 -	__Interest, willingness, and ability to learn new skills and applications__
 
 ## Presentations
+`July 2020`
+NC Library Association Digital Unconference  
+  “Nontraditional Career Paths: Library Skills Outside the Library” (panelist)  
+  
+`April 2020`
+Southern Mississippi Institutional Repository Conference, Virtual  
+  [“DSpace 7: Coming Soon to a DSpace Near You”](https://aquila.usm.edu/smirc/2020/1/12/)   
+  
 `October 2019`
 Digital Library Federation Conference, Tampa, FL  
   - “What doesn’t kill us: The impact of DPN’s downfall on the nodes” (panelist)  
