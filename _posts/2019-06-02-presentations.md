@@ -9,7 +9,10 @@ comments: false
 
 I frequently present and facilitate workshops, training sessions, conference sessions, and panels. Many of these presentations have been added to [Slideshare](https://www.slideshare.net/HeatherGreerKlein). 
 
-Recorded webinars include ["DuraCloud: What's New and What's Next for the Software and the Service"](https://youtu.be/KSICFYf-qYI); ["DuraCloud Overview: Use Cases for Preservation Storage](http://lyrasis.adobeconnect.com/p3ihv6mej65d/?OWASP_CSRFTOKEN=3fd31f58f4d4adc0f852edb397eb26df3e31690e6cf6256f99f3ea04568d3c7b); and a presentation for the [National Digital Stewardship Alliance Infrastructure Interest Group Information Series](https://youtu.be/JiviyDF7iRo)  (beginning at 3:30).
+Recorded webinars include:
+["DuraCloud: What's New and What's Next for the Software and the Service"](https://youtu.be/KSICFYf-qYI)
+["DuraCloud Overview: Use Cases for Preservation Storage"](http://lyrasis.adobeconnect.com/p3ihv6mej65d/?OWASP_CSRFTOKEN=3fd31f58f4d4adc0f852edb397eb26df3e31690e6cf6256f99f3ea04568d3c7b)
+A presentation for the [National Digital Stewardship Alliance Infrastructure Interest Group Information Series](https://youtu.be/JiviyDF7iRo)  (beginning at 3:30).
 
 ## Past Presentations
 `July 2020`
