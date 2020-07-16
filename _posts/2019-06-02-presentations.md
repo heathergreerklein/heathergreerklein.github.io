@@ -9,10 +9,12 @@ comments: false
 
 I frequently present and facilitate workshops, training sessions, conference sessions, and panels. Many of these presentations have been added to [Slideshare](https://www.slideshare.net/HeatherGreerKlein). 
 
-Recorded webinars include:
-["DuraCloud: What's New and What's Next for the Software and the Service"](https://youtu.be/KSICFYf-qYI)
-["DuraCloud Overview: Use Cases for Preservation Storage"](http://lyrasis.adobeconnect.com/p3ihv6mej65d/?OWASP_CSRFTOKEN=3fd31f58f4d4adc0f852edb397eb26df3e31690e6cf6256f99f3ea04568d3c7b)
-A presentation for the [National Digital Stewardship Alliance Infrastructure Interest Group Information Series](https://youtu.be/JiviyDF7iRo)  (beginning at 3:30).
+Recorded webinars include:  
+["DuraCloud: What's New and What's Next for the Software and the Service"](https://youtu.be/KSICFYf-qYI)  
+  
+["DuraCloud Overview: Use Cases for Preservation Storage"](http://lyrasis.adobeconnect.com/p3ihv6mej65d/?OWASP_CSRFTOKEN=3fd31f58f4d4adc0f852edb397eb26df3e31690e6cf6256f99f3ea04568d3c7b)  
+
+A presentation for the [National Digital Stewardship Alliance Infrastructure Interest Group Information Series](https://youtu.be/JiviyDF7iRo) (beginning at 3:30).  
 
 ## Past Presentations
 `July 2020`
@@ -20,7 +22,7 @@ NC Library Association Digital Unconference
   “Nontraditional Career Paths: Library Skills Outside the Library” (panelist)
   
 `April 2020`
-Southern Mississippi Institutional Repository Conference, Virtual
+Southern Mississippi Institutional Repository Conference, Virtual  
   [“DSpace 7: Coming Soon to a DSpace Near You”](https://aquila.usm.edu/smirc/2020/1/12/) 
   
 `October 2019`
@@ -28,40 +30,40 @@ Digital Preservation 2019 Conference, Tampa, FL
   “Designing a Migration Path: Outcomes and Recommendations” (moderator) 
   
 `April 2019`
-DuraSpace Summit, St. Louis, MO
-  “Supporting open infrastructure in an evolving landscape” (moderator) 
+DuraSpace Summit, St. Louis, MO  
+  “Supporting open infrastructure in an evolving landscape” (moderator)   
   
 `February 2019`
-PASIG Meeting, Mexico City, Mexico
-  “Distributed Digital Preservation Discussion” (panelist)  
+PASIG Meeting, Mexico City, Mexico  
+  “Distributed Digital Preservation Discussion” (panelist)    
   
 `December 2018`
-Webinar, NDSA Infrastructure Interest Group Meeting
-  “[Uncovering the True Cost of Cloud Storage](https://youtu.be/JiviyDF7iRo)” 
+Webinar, NDSA Infrastructure Interest Group Meeting  
+  “[Uncovering the True Cost of Cloud Storage](https://youtu.be/JiviyDF7iRo)”   
   
 `October 2018`
-Digital Library Federation Conference, Las Vegas, NV  
-  “[Collaboration beyond code: Sprints for non-technical work](https://osf.io/s7knx/)” (concurrent session)  
-  “[Digital Library Technology, Social Impact, and the Developing World](https://osf.io/6d7ny/)” (concurrent session)  
+Digital Library Federation Conference, Las Vegas, NV    
+  “[Collaboration beyond code: Sprints for non-technical work](https://osf.io/s7knx/)” (concurrent session)    
+  “[Digital Library Technology, Social Impact, and the Developing World](https://osf.io/6d7ny/)” (concurrent session)    
   
 `June 2018`
-VIVO Conference 2018, Durham, NC
-  “Research Graph VIVO Cloud Pilot” (poster)   
+VIVO Conference 2018, Durham, NC  
+  “Research Graph VIVO Cloud Pilot” (poster)     
   
 `May 2018`
 Webinar 
-  “[DuraCloud in 2018: What's New? What's Next for the Software and the Service?](https://www.youtube.com/watch?v=KSICFYf-qYI)” 
+  “[DuraCloud in 2018: What's New? What's Next for the Software and the Service?](https://www.youtube.com/watch?v=KSICFYf-qYI)”   
   
 `November 2017`
 Samvera Connect, Chicago, IL  
-  “[HykuDirect Pilot Project](https://www.slideshare.net/HeatherGreerKlein/hyku-direct-pilot-poster-samvera-connect-2017)” (Poster)
+  “[HykuDirect Pilot Project](https://www.slideshare.net/HeatherGreerKlein/hyku-direct-pilot-poster-samvera-connect-2017)” (Poster)  
   
 `April 2017`
-DPLAFest, Chicago, IL
-  “Hydra-in-a-Box Project Update” (Co-presenter)  
+DPLAFest, Chicago, IL  
+  “Hydra-in-a-Box Project Update” (Co-presenter)    
   
 `March 2016`
-NC Community College Library Association Conference, Dobson, NC  
+NC Community College Library Association Conference, Dobson, NC    
   “[But Wait, There’s More!: Tips & Tricks to Optimize Your Digital Resources](http://www.slideshare.net/HeatherGreerKlein/tips-and-tricks-to-optimize-your-digital-resources)” (Co-presenter, concurrent session)  
   “Forming Partnerships to Ensure Continued Relevance” (Co-moderator, roundtable discussion)  
 
